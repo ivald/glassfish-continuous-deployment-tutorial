@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="MySQL - ideadb@localhost" uuid="c9a573cb-c26b-46eb-bb7b-7c7a656085b8">
+      <secret-storage>master_key</secret-storage>
+      <user-name>root</user-name>
+      <schema-pattern>ideadb.*</schema-pattern>
+      <default-schemas>ideadb.*</default-schemas>
+    </data-source>
+  </component>
+</project>
